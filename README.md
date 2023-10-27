@@ -1,4 +1,4 @@
-# GROF Adhoc Template
+# Adhoc Template
 
 This is a [Next.js](https://nextjs.org/) boilerplate that already integrated with MSAL authentication and S3 document basic use for internal adhoc use.
 
