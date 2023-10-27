@@ -1,16 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# GROF Adhoc Template
+
+This is a [Next.js](https://nextjs.org/) boilerplate that already integrated with MSAL authentication and S3 document basic use for internal adhoc use.
 
 ## Getting Started
 
-First, run the development server:
+### Installation
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+1. Clone the repo
+   ```sh
+   git clone git@github.com:SproutAsia/grof-adhoc-template.git
+   ```
+2. Install NPM packages
+   ```sh
+   yarn
+   ```
+3. Create .env based on .env.example
+4. Start the application
+   ```sh
+   yarn dev
+   ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

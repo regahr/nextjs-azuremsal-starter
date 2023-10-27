@@ -1,0 +1,14 @@
+{
+  "eslint.validate": [
+    "typescript"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1F2E47",
+    "titleBar.activeBackground": "#2B4063",
+    "titleBar.activeForeground": "#F9FAFC"
+  }
+}
